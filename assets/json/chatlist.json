@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Bob Williams",
+    "imageUrl": "https://d326fntlu7tb1e.cloudfront.net/uploads/5784678c-3aaf-4ad0-9753-166149406070-profile.webp",
+    "message": "What are you up to?"
+  },
+  {
+    "name": "Sara Garcia",
+    "imageUrl": "https://d326fntlu7tb1e.cloudfront.net/uploads/5784678c-3aaf-4ad0-9753-166149406070-profile.webp",
+    "message": "Hey there!"
+  },
+  {
+    "name": "John Smith",
+    "imageUrl": "https://d326fntlu7tb1e.cloudfront.net/uploads/5784678c-3aaf-4ad0-9753-166149406070-profile.webp",
+    "message": "Did you see the game last night?"
+  },
+  {
+    "name": "Mary Johnson",
+    "imageUrl": "https://d326fntlu7tb1e.cloudfront.net/uploads/5784678c-3aaf-4ad0-9753-166149406070-profile.webp",
+    "message": "How's your day going?"
+  },
+  {
+    "name": "Bob Garcia",
+    "imageUrl": "https://d326fntlu7tb1e.cloudfront.net/uploads/5784678c-3aaf-4ad0-9753-166149406070-profile.webp",
+    "message": "I heard there's a new restaurant opening up in town."
+  },
+  {
+    "name": "Tom Doe",
+    "imageUrl": "https://d326fntlu7tb1e.cloudfront.net/uploads/5784678c-3aaf-4ad0-9753-166149406070-profile.webp",
+    "message": "Hey there!"
+  },
+  {
+    "name": "John Garcia",
+    "imageUrl": "https://d326fntlu7tb1e.cloudfront.net/uploads/5784678c-3aaf-4ad0-9753-166149406070-profile.webp",
+    "message": "Hey there!"
+  },
+  {
+    "name": "Sara Johnson",
+    "imageUrl": "https://d326fntlu7tb1e.cloudfront.net/uploads/5784678c-3aaf-4ad0-9753-166149406070-profile.webp",
+    "message": "What are you up to?"
+  },
+  {
+    "name": "Tom Williams",
+    "imageUrl": "https://d326fntlu7tb1e.cloudfront.net/uploads/5784678c-3aaf-4ad0-9753-166149406070-profile.webp",
+    "message": "What are you up to?"
+  },
+  {
+    "name": "Mary Smith",
+    "imageUrl": "https://d326fntlu7tb1e.cloudfront.net/uploads/5784678c-3aaf-4ad0-9753-166149406070-profile.webp",
+    "message": "How's your day going?"
+  }
+]

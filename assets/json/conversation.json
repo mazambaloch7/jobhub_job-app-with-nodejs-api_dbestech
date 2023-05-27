@@ -1,0 +1,52 @@
+[
+  {
+    "sender": "You",
+    "message": "Hey, how's it going?",
+    "timestamp": "2023-04-21 12:05:00"
+  },
+  {
+    "sender": "User",
+    "message": "Hey! I'm good, thanks. How about you?",
+    "timestamp": "2023-04-21 12:06:00"
+  },
+  {
+    "sender": "You",
+    "message": "I'm doing pretty well, thanks. Did you see the new movie that just came out?",
+    "timestamp": "2023-04-21 12:07:00"
+  },
+  {
+    "sender": "User",
+    "message": "No, I haven't had a chance to yet. Is it any good?",
+    "timestamp": "2023-04-21 12:08:00"
+  },
+  {
+    "sender": "You",
+    "message": "Yeah, it's really good! I highly recommend it.",
+    "timestamp": "2023-04-21 12:10:00"
+  },
+  {
+    "sender": "User",
+    "message": "Cool, I'll have to check it out. Thanks for the recommendation!",
+    "timestamp": "2023-04-21 12:11:00"
+  },
+  {
+    "sender": "You",
+    "message": "No problem! Let me know what you think after you see it.",
+    "timestamp": "2023-04-21 12:12:00"
+  },
+  {
+    "sender": "User",
+    "message": "Will do. Hey, did you hear about the new restaurant that opened up downtown?",
+    "timestamp": "2023-04-21 12:15:00"
+  },
+  {
+    "sender": "You",
+    "message": "No, I haven't. What kind of food do they serve?",
+    "timestamp": "2023-04-21 12:16:00"
+  },
+  {
+    "sender": "User",
+    "message": "It's a Mexican restaurant. I heard the tacos are amazing!",
+    "timestamp": "2023-04-21 12:17:00"
+  }
+]
